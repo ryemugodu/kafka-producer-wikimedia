@@ -1,0 +1,1 @@
+Reads the data from wikimedia APIs and stores in kafka topic
